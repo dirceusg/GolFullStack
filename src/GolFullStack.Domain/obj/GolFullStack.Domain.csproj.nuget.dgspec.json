@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/GolFullStack.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/GolFullStack.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/GolFullStack.Domain.csproj",
+        "projectName": "GolFullStack.Domain",
+        "projectPath": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/GolFullStack.Domain.csproj",
+        "packagesPath": "/Users/dirceugoncalves/.nuget/packages/",
+        "outputPath": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dirceugoncalves/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Entity/GolFullStack.Entity.csproj": {
+                "projectPath": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Entity/GolFullStack.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Entity/GolFullStack.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Entity/GolFullStack.Entity.csproj",
+        "projectName": "GolFullStack.Entity",
+        "projectPath": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Entity/GolFullStack.Entity.csproj",
+        "packagesPath": "/Users/dirceugoncalves/.nuget/packages/",
+        "outputPath": "/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dirceugoncalves/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

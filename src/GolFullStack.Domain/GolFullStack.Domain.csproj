@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GolFullStack.Entity\GolFullStack.Entity.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+    <Folder Include="Service\" />
+    <Folder Include="Repository\Interface\" />
+    <Folder Include="Repository\Interface\Business\" />
+    <Folder Include="Service\Interface\" />
+    <Folder Include="Service\Service\" />
+    <Folder Include="Validation\" />
+    <Folder Include="Validation\GolValidation\" />
+    <Folder Include="Validation\GolValidation\Interface\" />
+    <Folder Include="Validation\Business\" />
+    <Folder Include="Service\Interface\Business\" />
+    <Folder Include="Service\Service\Business\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.1" />
+  </ItemGroup>
+</Project>

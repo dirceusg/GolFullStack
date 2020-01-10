@@ -1,0 +1,26 @@
+{
+  "Airplane":
+  [
+    {
+      "id":"bc2df772-b461-4c4e-b09c-c9800108932a",
+      "RegistradoEm":"20200112",
+      "Modelo":"737-800",
+      "Imagem":"aviao.jpg",
+      "QuantidadePassageiros":340
+    },
+    {
+      "id":"c77b383c-5b65-457b-a76a-828986917fa5",
+      "RegistradoEm":"20200112",
+      "Modelo":"737-700",
+      "Imagem":"aviao.jpg",
+      "QuantidadePassageiros":220
+    },
+    {
+      "id":"42c3cb5f-4c5c-4583-9e03-3391d22d005b",
+      "RegistradoEm":"20200112",
+      "Modelo":"737-8",
+      "Imagem":"aviao.jpg",
+      "QuantidadePassageiros":189
+    }
+  ]
+}

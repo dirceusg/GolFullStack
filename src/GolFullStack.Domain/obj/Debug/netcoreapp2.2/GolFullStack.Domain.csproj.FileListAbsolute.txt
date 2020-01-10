@@ -1,0 +1,11 @@
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/bin/Debug/netcoreapp2.2/GolFullStack.Domain.deps.json
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/bin/Debug/netcoreapp2.2/GolFullStack.Domain.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/bin/Debug/netcoreapp2.2/GolFullStack.Domain.pdb
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/bin/Debug/netcoreapp2.2/GolFullStack.Entity.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/bin/Debug/netcoreapp2.2/GolFullStack.Entity.pdb
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/Debug/netcoreapp2.2/GolFullStack.Domain.csprojAssemblyReference.cache
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/Debug/netcoreapp2.2/GolFullStack.Domain.AssemblyInfoInputs.cache
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/Debug/netcoreapp2.2/GolFullStack.Domain.AssemblyInfo.cs
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/Debug/netcoreapp2.2/GolFullStack.Domain.csproj.CopyComplete
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/Debug/netcoreapp2.2/GolFullStack.Domain.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Domain/obj/Debug/netcoreapp2.2/GolFullStack.Domain.pdb

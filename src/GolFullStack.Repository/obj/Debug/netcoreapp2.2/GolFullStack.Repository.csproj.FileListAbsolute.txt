@@ -1,0 +1,13 @@
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Repository.deps.json
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Repository.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Repository.pdb
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Domain.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Entity.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Entity.pdb
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/bin/Debug/netcoreapp2.2/GolFullStack.Domain.pdb
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/obj/Debug/netcoreapp2.2/GolFullStack.Repository.csprojAssemblyReference.cache
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/obj/Debug/netcoreapp2.2/GolFullStack.Repository.AssemblyInfoInputs.cache
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/obj/Debug/netcoreapp2.2/GolFullStack.Repository.AssemblyInfo.cs
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/obj/Debug/netcoreapp2.2/GolFullStack.Repository.csproj.CopyComplete
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/obj/Debug/netcoreapp2.2/GolFullStack.Repository.dll
+/Users/dirceugoncalves/codecube/projetos/labs/GolFullStack/src/GolFullStack.Repository/obj/Debug/netcoreapp2.2/GolFullStack.Repository.pdb

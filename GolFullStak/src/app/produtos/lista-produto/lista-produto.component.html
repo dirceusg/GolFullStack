@@ -1,0 +1,34 @@
+<div class="bg-white">
+    <div class="container py-5">
+        <div class="row h-100 align-items-center py-5 center">
+            <div *ngFor="let produto of produtos" class="col-md-4" style="padding-bottom: 30px;">
+                <div class="card h-100">
+                    <a class="text-decoration-none" [routerLink]="['/produto-detalhe', produto.id]">
+                        <div style="align-content:center;">
+                            <img src="/assets/{{ produto.Imagem }}" height="164px" width="100%" alt="">
+                        </div>
+                    </a>
+                    <h4 class="card-title" style="width: 100%; text-align: center;">{{ produto.Modelo | titlecase }}</h4>
+    
+                    <div [ngSwitch]="produto.promocao">
+                        <p *ngSwitchCase="true">Promoção!</p>
+                        <p *ngSwitchCase="false">Por apenas:</p>
+                    </div>
+    
+                    <div class="card-body">
+                        <div><h4 class="card-text">Passageiros:
+                            <small>{{ produto.QuantidadePassageiros }}</small>
+                            
+                        </h4></div>
+                    </div>
+    
+                    <div class="card-footer" class="text-center">
+                        <a class="btn btn-primary" [routerLink]="['/carrinho',produto.id]">
+                            <span class="fa fa-shopping-cart"></span> Reservar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
